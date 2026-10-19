@@ -1,0 +1,6 @@
+# Cache của Kotlin/Gradle trong project Android (không có trong .gitignore mặc định của Flutter)
+**/android/.kotlin/
+**/android/.gradle/
+
+# Log
+*.log
